@@ -5,7 +5,6 @@
 		"email": "apoorvjaiswal56@gmail.com",
 		"phone": "8905016813",
 		"location": {
-			"address": "B17 Awas Vikas colony,Kanpur Road",
 			"postalCode": "284128",
 			"city": "Jhansi",
 			"countryCode": "India",
@@ -58,7 +57,7 @@
 	}],
 	"skills": [{
 		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Python", "Java"]
+		"keywords": ["HTML", "CSS", "Javascript","MySQL", "React", "C/C++", "Python", "Java","R","Tableau","Git","Wordpress"]
 	}],
 	"interests": [{
 			"name": "Sports",
