@@ -36,6 +36,15 @@
 			"highlights": ["Add Highlights", "Organised code chronicles, an inter-IIIT coding competition on codechef.\nFacilitate small group discussions and prepare freshmans."]
 		},
 		{
+			"company": "Parakh online private Ltd",
+			"position": "Front-End web developer Intern",
+			"website": "www.patrakh.online",
+			"startDate": "2021-02-09",
+			"endDate": "2021-04-18",
+			"summary": "leading SaaS-based company in India, offering various products to bring transparency and ease into business.",
+			"highlights": ["Add Highlights", "Your working details"]
+		},
+		{
 			"company": "IIITians network",
 			"position": "UI/UX designer",
 			"website": "www.iiitiansnetwork.com",
@@ -43,29 +52,49 @@
 			"endDate": "2020-11-15",
 			"highlights": ["Add Highlights", "Designed and developed responsive and adaptive websites using HTML5 and CSS3. \nCreated CSS animations for welcome and loading pages."]
 		}
+
 	],
+	"Volunteer": [{
+		"organization": "Incognito",
+		"position": "Core Member",
+		"website": "---",
+		"startDate": "2019-09-02 // Note Date Format",
+		"endDate": "---",
+		"summary": "Cultural Club IIIT,Kota",
+		"highlights": []
+	}],
+	"awards": [{
+		"title": "Runner up at Vivacity,Nukkad Natak Competition",
+		"awarder": "LNMIT Fest Organizing Committee",
+		"date": "2020-02-04//Date"
+	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "01-08-2019",
-		"endDate": "01-07-2023",
+		"endDate": "---",
 		"gpa": "7.34",
 		"courses": [
 			"Computer Science & Engineering"
 		]
 	}],
 	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript","MySQL", "React", "C/C++", "Python", "Java","R","Tableau","Git","Wordpress"]
-	}],
+			"level": "Master",
+			"keywords": ["HTML", "CSS", "Javascript", "MySQL", "React", "C/C++", "Java"]
+		},
+		{
+			"level": "Intemediate",
+			"keywords": ["Python", "R", "Tableau", "Git", "Wordpress"]
+		}
+	],
 	"interests": [{
 			"name": "Sports",
 			"keywords": ["Cricket", "Badminton"]
 		},
 		{
 			"name": "extra curricular",
-			"keywords": ["singing,dancing"]
+			"keywords": ["Acting", "singing", "dancing"]
 		}
 	],
 	"references": []
